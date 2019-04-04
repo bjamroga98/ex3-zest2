@@ -22,7 +22,7 @@ namespace ex3_zest2
             int tmp = aa;
             aa = bb;
             bb = tmp;
-            Console.ReadKey();
+            
         }
     }
 }
